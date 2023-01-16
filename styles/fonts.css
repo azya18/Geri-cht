@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Bestermind';
+    src: url('../fonts/bestermind/BestermindRegular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'CormorantUpright';
+    src: url('../fonts/Cormorant_Upright/CormorantUpright-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'CormorantUpright';
+    src: url('../fonts/Cormorant_Upright/CormorantUpright-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'CormorantUpright';
+    src: url('../fonts/Cormorant_Upright/CormorantUpright-SemiBold.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/Open_Sans/OpenSans-Italic.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/Open_Sans/OpenSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/Open_Sans/OpenSans-SemiBold.ttf');
+    font-weight: 600;
+}
