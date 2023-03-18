@@ -60,7 +60,6 @@ body {
     padding: 5px;
     color: #FFFFFF;
     -webkit-transition: .4s;
-    -o-transition: .4s;
     transition: .4s;
 }
 
@@ -100,7 +99,6 @@ body {
     text-transform: capitalize;
     color: #FFFFFF;
     -webkit-transition: .4s;
-    -o-transition: .4s;
     transition: .4s;
 }
 
@@ -180,7 +178,6 @@ body {
     border: 2px solid white;
     background: transparent;
     -webkit-transition: all .4s linear;
-    -o-transition: all .4s linear;
     transition: all .4s linear;
 
 }
@@ -361,7 +358,6 @@ body {
     top: 25px;
     left: 50%;
     -webkit-transform: translateX(-50%);
-        -ms-transform: translateX(-50%);
             transform: translateX(-50%);
     display: block;
     position: absolute;
@@ -488,7 +484,6 @@ select:focus {
     letter-spacing: 0.03em;
     text-transform: capitalize;
     -webkit-transition: .4s;
-    -o-transition: .4s;
     transition: .4s;
     -webkit-font-feature-settings: 'tnum'on, 'lnum'on;
             font-feature-settings: 'tnum'on, 'lnum'on;
@@ -524,7 +519,6 @@ select:focus {
     position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%);
-        -ms-transform: translateX(-50%);
             transform: translateX(-50%);
     z-index: -1;
 }
@@ -1021,7 +1015,6 @@ select:focus {
     line-height: 175%;
     letter-spacing: 0.04em;
     -webkit-transition: .4s;
-    -o-transition: .4s;
     transition: .4s;
     color: white;
 }
@@ -1193,7 +1186,6 @@ select:focus {
     letter-spacing: 0.04em;
     color: #AAAAAA;
     -webkit-transition: .4s;
-    -o-transition: .4s;
     transition: .4s;
 }
 
